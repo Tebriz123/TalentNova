@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj",
       "projectName": "TalentNova.Domain",
-      "projectPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj",
+      "projectPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj",
       "packagesPath": "C:\\Users\\necef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Core\\TalentNova.Domain\\obj\\",
+      "outputPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

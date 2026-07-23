@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj": {}
+    "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj": {
+    "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj",
         "projectName": "TalentNova.Infrastructure",
-        "projectPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\TalentNova.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\necef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\necef\\OneDrive\\İş masası\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
