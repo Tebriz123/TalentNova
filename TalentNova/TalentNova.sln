@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -16,6 +16,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentNova.Application", "src\Core\TalentNova.Application\TalentNova.Application.csproj", "{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentNova.Persistence", "src\Infrastructure\TalentNova.Persistence\TalentNova.Persistence.csproj", "{4D5013D6-C333-44C9-BA10-7F8B1818AC6E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F} = {A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}
+		{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6} = {BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalentNova.Infrastructure", "src\Infrastructure\TalentNova.Infrastructure\TalentNova.Infrastructure.csproj", "{8E2F5282-55B9-4D38-BD75-BFD7ED563712}"
 EndProject

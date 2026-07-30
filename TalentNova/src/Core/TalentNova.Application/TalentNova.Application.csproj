@@ -14,4 +14,8 @@
     <Folder Include="Validators\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TalentNova.Domain\TalentNova.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -9,8 +9,21 @@
   <ItemGroup>
     <Folder Include="Implementations\Services\" />
     <Folder Include="Implementations\Repositories\" />
-    <Folder Include="Contexts\" />
     <Folder Include="Cofigurations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.29">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\TalentNova.Application\TalentNova.Application.csproj" />
+    <ProjectReference Include="..\..\Core\TalentNova.Domain\TalentNova.Domain.csproj" />
   </ItemGroup>
 
 </Project>
