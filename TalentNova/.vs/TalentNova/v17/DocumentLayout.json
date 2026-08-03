@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\notification\\getnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\notification\\getnotificationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\candidate\\getcandidateitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\candidate\\getcandidateitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\candidate\\getcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\candidate\\getcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\appuser\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\appuser\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\appuser\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\appuser\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\resume\\getresumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\resume\\getresumedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\workexperience\\getworkexperiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\workexperience\\getworkexperiencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\education\\geteducationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\education\\geteducationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\candidate\\putcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\candidate\\putcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\offer\\putofferstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\offer\\putofferstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,20 +103,8 @@
       "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\jobposting\\getjobpostingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\candidate\\getcandidateitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\candidate\\getcandidateitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\candidate\\putcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\candidate\\putcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\candidate\\postcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\candidate\\postcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\candidate\\getcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\candidate\\getcandidatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D5013D6-C333-44C9-BA10-7F8B1818AC6E}|src\\Infrastructure\\TalentNova.Persistence\\TalentNova.Persistence.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\infrastructure\\talentnova.persistence\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -219,6 +243,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetNotificationDto.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Notification\\GetNotificationDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Notification\\GetNotificationDto.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Notification\\GetNotificationDto.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Notification\\GetNotificationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T16:15:02.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\AppUser\\LoginDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\AppUser\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\AppUser\\LoginDto.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\AppUser\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T16:11:38.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\AppUser\\RegisterDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T16:10:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetEducationDto.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Education\\GetEducationDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Education\\GetEducationDto.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Education\\GetEducationDto.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Education\\GetEducationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T16:05:20.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetWorkExperienceDto.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\WorkExperience\\GetWorkExperienceDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\WorkExperience\\GetWorkExperienceDto.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\WorkExperience\\GetWorkExperienceDto.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\WorkExperience\\GetWorkExperienceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T16:04:48.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetResumeDto.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Resume\\GetResumeDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Resume\\GetResumeDto.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Resume\\GetResumeDto.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Resume\\GetResumeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T16:03:50.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PutOfferStatusDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Offer\\PutOfferStatusDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Offer\\PutOfferStatusDto.cs",
@@ -231,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "PostOfferDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Offer\\PostOfferDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Offer\\PostOfferDto.cs",
@@ -239,12 +341,11 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Offer\\PostOfferDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T15:56:41.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T15:56:41.051Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "GetOfferDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Offer\\GetOfferDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Offer\\GetOfferDto.cs",
@@ -252,12 +353,11 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Offer\\GetOfferDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T15:49:46.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T15:49:46.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "SubmitInterviewFeedbackDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Interview\\SubmitInterviewFeedbackDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\SubmitInterviewFeedbackDto.cs",
@@ -265,12 +365,11 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\SubmitInterviewFeedbackDto.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T15:41:34.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T15:41:34.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "InterviewFeedbackDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Interview\\InterviewFeedbackDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\InterviewFeedbackDto.cs",
@@ -278,12 +377,11 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\InterviewFeedbackDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T15:41:11.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T15:41:11.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "ScheduleInterviewDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Interview\\ScheduleInterviewDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\ScheduleInterviewDto.cs",
@@ -291,12 +389,11 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\ScheduleInterviewDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T15:40:45.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T15:40:45.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "GetInterviewDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Interview\\GetInterviewDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\GetInterviewDto.cs",
@@ -304,12 +401,11 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Interview\\GetInterviewDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T15:40:29.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T15:40:29.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "MoveApplicationStageDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\MoveApplicationStageDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\MoveApplicationStageDto.cs",
@@ -321,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "ApplicationStageHistoryDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\ApplicationStageHistoryDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\ApplicationStageHistoryDto.cs",
@@ -333,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "ApplyToJobDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\ApplyToJobDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\ApplyToJobDto.cs",
@@ -345,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "GetJobApplicationItemDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\GetJobApplicationItemDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\GetJobApplicationItemDto.cs",
@@ -353,12 +449,11 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\GetJobApplicationItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T15:18:47.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-03T15:18:47.406Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "GetJobApplicationDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\GetJobApplicationDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobApplication\\GetJobApplicationDto.cs",
@@ -370,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "PutJobPostingDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\PutJobPostingDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\PutJobPostingDto.cs",
@@ -382,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "PostJobPostingDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\PostJobPostingDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\PostJobPostingDto.cs",
@@ -394,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "GetJobPostingItemDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingItemDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingItemDto.cs",
@@ -406,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "GetJobPostingDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingDto.cs",
@@ -418,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 8,
               "Title": "PutCandidateDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Candidate\\PutCandidateDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Candidate\\PutCandidateDto.cs",
@@ -426,11 +521,12 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Candidate\\PutCandidateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T14:14:03.246Z"
+              "WhenOpened": "2026-08-03T14:14:03.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "PostCandidateDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Candidate\\PostCandidateDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Candidate\\PostCandidateDto.cs",
@@ -442,19 +538,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
               "Title": "GetCandidateItemDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Candidate\\GetCandidateItemDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Candidate\\GetCandidateItemDto.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Candidate\\GetCandidateItemDto.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Candidate\\GetCandidateItemDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T14:13:35.597Z"
+              "WhenOpened": "2026-08-03T14:13:35.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
               "Title": "GetCandidateDto.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\Candidate\\GetCandidateDto.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\Candidate\\GetCandidateDto.cs",
@@ -462,11 +559,12 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\Candidate\\GetCandidateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-03T14:13:10.043Z"
+              "WhenOpened": "2026-08-03T14:13:10.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\AppUser.cs",
@@ -478,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TalentNova.Persistence\\Contexts\\AppDbContext.cs",
@@ -490,7 +588,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "NotificationType.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\NotificationType.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\NotificationType.cs",
@@ -502,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "OfferStatus.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\OfferStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\OfferStatus.cs",
@@ -514,7 +612,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "RecommendationType.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\RecommendationType.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\RecommendationType.cs",
@@ -526,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "InterviewStatus.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\InterviewStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\InterviewStatus.cs",
@@ -538,7 +636,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "InterviewType.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\InterviewType.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\InterviewType.cs",
@@ -550,7 +648,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "ApplicationStatus.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\ApplicationStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\ApplicationStatus.cs",
@@ -562,7 +660,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "ProficiencyLevel.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\ProficiencyLevel.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\ProficiencyLevel.cs",
@@ -574,7 +672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "CandidateSource.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\CandidateSource.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\CandidateSource.cs",
@@ -586,7 +684,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "JobStatus.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\JobStatus.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\JobStatus.cs",
@@ -598,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 38,
               "Title": "EmploymentType.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Enums\\EmploymentType.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Enums\\EmploymentType.cs",
@@ -610,7 +708,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 39,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Notification.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Notification.cs",
@@ -622,7 +720,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 41,
               "Title": "Offer.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Offer.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Offer.cs",
@@ -634,7 +732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 42,
               "Title": "InterviewFeedback.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\InterviewFeedback.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\InterviewFeedback.cs",
@@ -646,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 43,
               "Title": "Interview.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Interview.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Interview.cs",
@@ -658,7 +756,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 45,
               "Title": "ApplicationStageHistory.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\ApplicationStageHistory.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\ApplicationStageHistory.cs",
@@ -670,7 +768,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "JobApplication.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\JobApplication.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\JobApplication.cs",
@@ -682,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 49,
               "Title": "CandidateSkill.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\CandidateSkill.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\CandidateSkill.cs",
@@ -694,7 +792,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 50,
               "Title": "Skill.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Skill.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Skill.cs",
@@ -706,7 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 51,
               "Title": "Education.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Education.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Education.cs",
@@ -718,7 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 52,
               "Title": "WorkExperience.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\WorkExperience.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\WorkExperience.cs",
@@ -730,7 +828,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "Resume.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Resume.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Resume.cs",
@@ -742,7 +840,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 46,
               "Title": "Candidate.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Candidate.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Candidate.cs",
@@ -754,7 +852,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 47,
               "Title": "JobPosting.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\JobPosting.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\JobPosting.cs",
@@ -766,7 +864,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 48,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Department.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Department.cs",
@@ -778,7 +876,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 55,
               "Title": "Company.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Company.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Company.cs",
@@ -790,7 +888,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 40,
               "Title": "BaseAccountableEntity.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\common\\BaseAccountableEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\common\\BaseAccountableEntity.cs",
@@ -802,7 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "BaseNameableEntity.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\common\\BaseNameableEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\common\\BaseNameableEntity.cs",
@@ -814,7 +912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 44,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\common\\BaseEntity.cs",
@@ -826,7 +924,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "TalentNova.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentNova.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ea7fe0ed6f352f713d69187e38f2fe5727f7b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a5ceb38722ad76567d5924a7a96422d840fb9bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentNova.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentNova.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

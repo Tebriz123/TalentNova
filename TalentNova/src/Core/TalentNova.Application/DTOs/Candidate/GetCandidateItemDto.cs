@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TalentNova.Application.DTOs.Education;
+using TalentNova.Application.DTOs.Resume;
+using TalentNova.Application.DTOs.WorkExperience;
 
 namespace TalentNova.Application.DTOs.Candidate
 {
@@ -13,6 +16,9 @@ namespace TalentNova.Application.DTOs.Candidate
         string PhoneNumber,
         string Email,
         string? LinkedInUrl,
+        List<GetResumeDto> Resumes,
+        List<GetWorkExperienceDto> WorkExperiences,
+        List<GetEducationDto> Educations,
         List<string> Skills
         );
     
