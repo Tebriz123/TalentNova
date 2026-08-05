@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TalentNova.Domain.Entities.common;
+using TalentNova.Domain.Entities.Enums;
 
 namespace TalentNova.Domain.Entities
 {
@@ -12,6 +13,7 @@ namespace TalentNova.Domain.Entities
         public string UserId { get; set; }
         public string Title { get; set; }
         public string Message { get; set; }
+        public NotificationType Type { get; set; }
         public bool IsRead { get; set; }    
 
     }

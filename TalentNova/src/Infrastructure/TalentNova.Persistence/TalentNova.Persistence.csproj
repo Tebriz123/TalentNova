@@ -9,7 +9,6 @@
   <ItemGroup>
     <Folder Include="Implementations\Services\" />
     <Folder Include="Implementations\Repositories\" />
-    <Folder Include="Cofigurations\" />
   </ItemGroup>
 
   <ItemGroup>
