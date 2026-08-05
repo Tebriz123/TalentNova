@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,6 +13,7 @@ namespace TalentNova.Application.DTOs.Candidate
         string LastName,
         string Email,
         string PhoneNumber,
+        IFormFile Photo,
         string? Address,
         string? LinkedInUrl,
         string? PortfolioUrl,

@@ -11,12 +11,13 @@ namespace TalentNova.Application.DTOs.Candidate
         long Id,
         string FirstName,
         string LastName,
+        string Photo,
         string Email,
         string PhoneNumber,
         string CurrentPosition,
         string CurrentCompany,
         CandidateSource Source,
-        DateTime CreateAt
+        DateTime CreatedAt
         );
     
 }

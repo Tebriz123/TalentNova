@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentNova.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+864820dd989adff9f071e396122aa07103d5a5e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f1e074c146c302571d95acb62cdc1c943bcfc37")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentNova.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentNova.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

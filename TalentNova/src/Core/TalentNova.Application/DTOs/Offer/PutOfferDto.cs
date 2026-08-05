@@ -7,7 +7,7 @@ using TalentNova.Domain.Entities.Enums;
 
 namespace TalentNova.Application.DTOs.Offer
 {
-    public record PutOfferStatusDto(
+    public record PutOfferDto(
         long OfferId,
         OfferStatus Status
         );

@@ -13,6 +13,7 @@ namespace TalentNova.Application.DTOs.Candidate
         long Id,
         string FirstName,
         string LastName,
+        string Photo,
         string PhoneNumber,
         string Email,
         string? LinkedInUrl,
