@@ -8,9 +8,9 @@ using TalentNova.Domain.Entities.Enums;
 
 namespace TalentNova.Domain.Entities
 {
-    public class ApplicationStageHistory:BaseEntity
+    public class ApplicationStageHistory:BaseAccountableEntity
     {
-        public long JobApplicationId { get; set; }
+        public long JobApplicationId { get; set; } 
         public JobApplication JobApplication { get; set; }
         public string ChangedByUserId { get; set; }
         public ApplicationStatus FromStatus { get; set; }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TalentNova.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d44dd35e5805954b6df2a013bb52daf29c7bfa4e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae4548c01c1ccb669aaa757132da9e1d0a8d568")]
 [assembly: System.Reflection.AssemblyProductAttribute("TalentNova.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TalentNova.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

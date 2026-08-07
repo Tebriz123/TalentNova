@@ -8,7 +8,7 @@ using TalentNova.Domain.Entities.Enums;
 
 namespace TalentNova.Domain.Entities
 {
-    public class JobApplication:BaseEntity
+    public class JobApplication:BaseAccountableEntity
     {
         public long CandidateId { get; set; }
         public long JobPostingId { get; set; }

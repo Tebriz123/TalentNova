@@ -10,7 +10,8 @@ namespace TalentNova.Domain.Entities
 {
     public class Candidate:BaseNameableEntity
     {
-        public string AppUserId { get; set; }        
+        public string AppUserId { get; set; }
+        public AppUser AppUser { get; set; }
         public string? PhotoUrl { get; set; }
         public string? Address { get; set; }
         public string? LinkedInUrl { get; set; }

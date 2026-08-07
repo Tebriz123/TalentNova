@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\interviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\interviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\jobapplicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\jobapplicationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\applicationstagehistoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\applicationstagehistoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\applicationstagehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\applicationstagehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\jobpostingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\jobpostingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\notificationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\notificationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\educationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\educationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\resumeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\resumeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\offerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\offerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\workexperienceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\workexperienceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +55,40 @@
       "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\interviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\interviewfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\candidateskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D5013D6-C333-44C9-BA10-7F8B1818AC6E}|src\\Infrastructure\\TalentNova.Persistence\\TalentNova.Persistence.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\infrastructure\\talentnova.persistence\\cofigurations\\applicationstagehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D5013D6-C333-44C9-BA10-7F8B1818AC6E}|src\\Infrastructure\\TalentNova.Persistence\\TalentNova.Persistence.csproj|solutionrelative:src\\infrastructure\\talentnova.persistence\\cofigurations\\applicationstagehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\interviewfeedbackprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\interviewfeedbackprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\applicationstagehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\applicationstagehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\interviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\interviewprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\dtos\\jobposting\\getjobpostingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\dtos\\jobposting\\getjobpostingitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.application\\mappingprofiles\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9AD18E-CDE8-482F-89C9-178CEB66E9B6}|src\\Core\\TalentNova.Application\\TalentNova.Application.csproj|solutionrelative:src\\core\\talentnova.application\\mappingprofiles\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\core\\talentnova.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D57FA7-6DF6-4D37-B9BE-6734B135DC8F}|src\\Core\\TalentNova.Domain\\TalentNova.Domain.csproj|solutionrelative:src\\core\\talentnova.domain\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5013D6-C333-44C9-BA10-7F8B1818AC6E}|src\\Infrastructure\\TalentNova.Persistence\\TalentNova.Persistence.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\infrastructure\\talentnova.persistence\\cofigurations\\applicationstagehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5013D6-C333-44C9-BA10-7F8B1818AC6E}|src\\Infrastructure\\TalentNova.Persistence\\TalentNova.Persistence.csproj|solutionrelative:src\\infrastructure\\talentnova.persistence\\cofigurations\\applicationstagehistoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D5013D6-C333-44C9-BA10-7F8B1818AC6E}|src\\Infrastructure\\TalentNova.Persistence\\TalentNova.Persistence.csproj|c:\\users\\necef\\onedrive\\\u0130\u015F masas\u0131\\talentnova2\\talentnova\\src\\infrastructure\\talentnova.persistence\\cofigurations\\interviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +114,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationStageHistoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\ApplicationStageHistoryProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\ApplicationStageHistoryProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\ApplicationStageHistoryProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\ApplicationStageHistoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:58:16.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobApplicationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\JobApplicationProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\JobApplicationProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\JobApplicationProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\JobApplicationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:57:49.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\NotificationProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\NotificationProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\NotificationProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\NotificationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:52:48.318Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "EducationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\EducationProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\EducationProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\EducationProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\EducationProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:52:32.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResumeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\ResumeProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\ResumeProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\ResumeProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\ResumeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:52:19.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkExperienceProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\WorkExperienceProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\WorkExperienceProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\WorkExperienceProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\WorkExperienceProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:31:53.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InterviewFeedbackProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewFeedbackProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewFeedbackProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewFeedbackProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewFeedbackProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:28:27.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InterviewProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\InterviewProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:24:25.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OfferProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\OfferProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\OfferProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\OfferProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\OfferProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T07:21:57.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetJobPostingItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingItemDto.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingItemDto.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingItemDto.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\DTOs\\JobPosting\\GetJobPostingItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T06:58:47.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobPostingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\JobPostingProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\JobPostingProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\JobPostingProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\JobPostingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T06:44:30.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Candidate.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T06:43:13.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "src\\Core\\TalentNova.Application\\MappingProfiles\\CandidateProfile.cs",
+              "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Application\\MappingProfiles\\CandidateProfile.cs",
+              "RelativeToolTip": "src\\Core\\TalentNova.Application\\MappingProfiles\\CandidateProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-06T06:07:57.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "ApplicationStageHistoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\ApplicationStageHistoryConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\ApplicationStageHistoryConfiguration.cs",
@@ -74,25 +282,23 @@
               "RelativeToolTip": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\ApplicationStageHistoryConfiguration.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwCMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:33:57.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:33:57.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "ApplicationStageHistory.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\ApplicationStageHistory.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\ApplicationStageHistory.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\ApplicationStageHistory.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\ApplicationStageHistory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:33:19.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:33:19.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "CandidateSkill.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\CandidateSkill.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\CandidateSkill.cs",
@@ -100,90 +306,84 @@
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\CandidateSkill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:32:20.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:32:20.582Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "InterviewConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewConfiguration.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewConfiguration.cs",
               "RelativeToolTip": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewConfiguration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:21:16.77Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:21:16.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Interview.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Interview.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Interview.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Interview.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\Interview.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:20:36.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:20:36.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "InterviewFeedbackConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewFeedbackConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewFeedbackConfiguration.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewFeedbackConfiguration.cs",
               "RelativeToolTip": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\InterviewFeedbackConfiguration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:18:47.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:18:47.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "InterviewFeedback.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\InterviewFeedback.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\InterviewFeedback.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\InterviewFeedback.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\InterviewFeedback.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-05T15:18:35.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 24,
               "Title": "JobApplicationConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\JobApplicationConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\JobApplicationConfiguration.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\JobApplicationConfiguration.cs",
               "RelativeToolTip": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\JobApplicationConfiguration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAEBVwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:17:08.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:17:08.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "JobApplication.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\JobApplication.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\JobApplication.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\JobApplication.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\JobApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAABzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:16:35.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:16:35.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
               "Title": "JobPostingConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\JobPostingConfiguration.cs",
               "RelativeDocumentMoniker": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\JobPostingConfiguration.cs",
@@ -191,47 +391,43 @@
               "RelativeToolTip": "src\\Infrastructure\\TalentNova.Persistence\\Cofigurations\\JobPostingConfiguration.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:09:39.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:09:39.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "JobPosting.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\JobPosting.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\JobPosting.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\JobPosting.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\JobPosting.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:08:52.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:08:52.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Notification.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Notification.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Notification.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\Notification.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T15:06:19.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T15:06:19.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Offer.cs",
               "DocumentMoniker": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Offer.cs",
               "RelativeDocumentMoniker": "src\\Core\\TalentNova.Domain\\Entities\\Offer.cs",
               "ToolTip": "C:\\Users\\necef\\OneDrive\\\u0130\u015F masas\u0131\\TalentNova2\\TalentNova\\src\\Core\\TalentNova.Domain\\Entities\\Offer.cs",
               "RelativeToolTip": "src\\Core\\TalentNova.Domain\\Entities\\Offer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T14:45:14.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T14:45:14.575Z"
             }
           ]
         }
